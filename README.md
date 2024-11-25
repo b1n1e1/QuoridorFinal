@@ -1,2 +1,3 @@
 # QuoridorFinal
-Quoridor game. See attached pdf for full report.
+Quoridor game.
+PDF of report available via email (Hebrew)
